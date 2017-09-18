@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1096108323681",
+    "firebase_url": "https://nrj8firebase.firebaseio.com",
+    "project_id": "nrj8firebase",
+    "storage_bucket": "nrj8firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096108323681:android:c069f6425a524dc6",
+        "android_client_info": {
+          "package_name": "com.example.niraj.csu_start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096108323681-92g9eqmd63q67nh5qkdonfsr8km255la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspqAvwTpxfh0_sVz_cTt80WCMnv1NbAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096108323681:android:08bebb1929b1fbf5",
+        "android_client_info": {
+          "package_name": "com.example.niraj.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096108323681-92g9eqmd63q67nh5qkdonfsr8km255la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspqAvwTpxfh0_sVz_cTt80WCMnv1NbAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096108323681:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096108323681-92g9eqmd63q67nh5qkdonfsr8km255la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspqAvwTpxfh0_sVz_cTt80WCMnv1NbAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096108323681:android:6bb5e30e2c635349",
+        "android_client_info": {
+          "package_name": "com.example.niraj.gloshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096108323681-92g9eqmd63q67nh5qkdonfsr8km255la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCspqAvwTpxfh0_sVz_cTt80WCMnv1NbAc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
