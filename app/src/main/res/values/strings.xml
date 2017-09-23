@@ -1,5 +1,5 @@
 <resources>
-        <string name="app_name">Firebase Auth</string>
+        <string name="app_name">GroShare</string>
         <string name="action_sign_in_short">Register</string>
         <string name="email">Email</string>
         <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
@@ -29,5 +29,9 @@
         <string name="prompt_password">Enter the Pass </string>
         <string name="lbl_forgot_password">Forgot password?</string>
         <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+
+        <string name="is_forget_password"><u>Forget Password?</u></string>
+        <string name="is_already_registered"><u>Not Registered yet?</u></string>
+
 </resources>
 
